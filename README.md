@@ -4,6 +4,9 @@ In this challenge, we use Python and unsupervised learning to predict if cryptoc
 
 We plot an elbow curve using k values from 1 to 11. Based on the elbow, the optimal k value for our model is 4.
 
+![image](https://github.com/meardreed/Unsupervised-Learning-Challenge/assets/124413887/058390e6-878d-4585-ab3c-12fa8c206cea)
+
+
 We also used PCA data to plot the elbow, which returned 4 as the best k value.
 
 
